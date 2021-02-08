@@ -1,0 +1,1 @@
+# entendendo-namespace-php
